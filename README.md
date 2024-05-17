@@ -4,24 +4,26 @@ Welcome to my repository for the "100 Days of SwiftUI" challenge! This project i
 
 ## About the Challenge
 
-The "100 Days of SwiftUI" challenge is a comprehensive guide to mastering SwiftUI, designed by Paul Hudson. It covers everything from the basics of Swift to advanced SwiftUI features, with each day providing new lessons and coding exercises.
+The "100 Days of SwiftUI" challenge is a comprehensive guide to mastering SwiftUI, designed by Paul Hudson. It covers everything from the basics of Swift to advanced SwiftUI features, with each day providing new lessons and coding exercises. The course is updated for iOS 17, requiring Xcode 15.3 or later.
 
 ## Repository Structure
 
-- **Day 1-10**: Basics of Swift
-- **Day 11-20**: SwiftUI Essentials
-- **Day 21-30**: Working with Data
-- **Day 31-40**: Accessibility and Animations
-- **Day 41-50**: Advanced SwiftUI
-- **Day 51-60**: Integrating SwiftUI with UIKit
-- **Day 61-70**: Swift Package Manager and Modular Design
-- **Day 71-80**: Building Custom Components with SwiftUI
-- **Day 81-90**: Performance and Optimization
-- **Day 91-100**: Capstone Projects
-
-## How to Use This Repository
-
-Feel free to explore the code for each day's challenges. Each folder is named according to the day and contains all relevant files and notes.
+- **Days 1-14**: Introduction to Swift – Covers the fundamentals of the Swift programming language.
+- **Day 15**: Consolidation I – Review and reflect on the first 14 days of learning Swift.
+- **Days 16-24**: Starting SwiftUI – Begin building real SwiftUI apps using the basics learned.
+- **Day 25**: Consolidation II – Review and reflect on projects completed so far.
+- **Days 26-34**: Expanding Your Skills – Develop SwiftUI skills in new directions with additional projects.
+- **Day 35**: Consolidation III – Review and take on a project of your own.
+- **Days 36-46**: Scaling Up to Bigger Apps – Push past the basics to start building bigger apps.
+- **Days 47-48**: Consolidation IV – Review previous projects and explore new topics.
+- **Days 49-59**: Focus on Data – Learn how to send, retrieve, and store data in SwiftUI apps.
+- **Days 60-61**: Consolidation V – Reflect on data-focused projects and prepare for new challenges.
+- **Days 62-76**: Filters, Maps, and More – Integrate code from frameworks outside of SwiftUI, including Core Image and MapKit.
+- **Days 77-78**: Consolidation VI – Review UIKit and SwiftUI integration.
+- **Days 79-94**: Controlling UI Flow – Build larger apps and explore user interaction techniques.
+- **Day 95**: Consolidation VII – Reflect on major projects and tackle a fresh challenge.
+- **Days 96-99**: One Last Project – Cover final tips and techniques, including optimizing for iPad.
+- **Day 100**: Wrap Up – Final exam and epilogue to see how much you remember from the entire curriculum.
 
 ## Contributing
 
@@ -29,4 +31,4 @@ While this is a personal learning project, any feedback or suggestions are welco
 
 ---
 
-Thank you for visiting my "100 Days of SwiftUI" journey.
+Thank you for visiting my "100 Days of SwiftUI" journey!!
