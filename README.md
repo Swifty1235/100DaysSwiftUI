@@ -11,6 +11,7 @@ The "100 Days of SwiftUI" challenge is a comprehensive guide to mastering SwiftU
 - **Days 1-14**: Introduction to Swift – Covers the fundamentals of the Swift programming language.
 - **Day 15**: Consolidation I – Review and reflect on the first 14 days of learning Swift.
 - **Days 16-24**: Starting SwiftUI – Begin building real SwiftUI apps using the basics learned.
+- **SwiftUI Projects**: Organized Hacking with Swift SwiftUI projects from project 5 onward, each with its own README.
 - **Day 25**: Consolidation II – Review and reflect on projects completed so far.
 - **Days 26-34**: Expanding Your Skills – Develop SwiftUI skills in new directions with additional projects.
 - **Day 35**: Consolidation III – Review and take on a project of your own.
